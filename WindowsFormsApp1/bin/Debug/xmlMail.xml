@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Personeller>
+	<personel id="0">
+		<adSoyad>Asd asffas</adSoyad>
+		<meslek>Desli</meslek>
+		<tel>05555556699</tel>
+		<mail>asd@gmail.com</mail>
+	</personel>
+	<personel id="1">
+		<adSoyad>Onur Yıldız</adSoyad>
+		<meslek>Oyuncu Mühendisi</meslek>
+		<tel>05555556699</tel>
+		<mail>onyore@gmail.com</mail>
+	</personel>
+	<personel id="2">
+		<adSoyad>Mehmet Bozkurt</adSoyad>
+		<meslek>asd</meslek>
+		<tel>05555556699</tel>
+		<mail>mmuko.5858@gmail.com</mail>
+	</personel>
+	<personel id="3">
+		<adSoyad>Hasan Sert</adSoyad>
+		<meslek>asd Mühendisi</meslek>
+		<tel>05555556699</tel>
+		<mail>assafdc@gmail.com</mail>
+	</personel>
+	<personel id="4">
+		<adSoyad>Çolak</adSoyad>
+		<meslek>Mimar</meslek>
+		<tel>05555556699</tel>
+		<mail>ttheyzc@gmail.com</mail>
+	</personel>
+	<personel id="5">
+		<adSoyad>Asd asffas</adSoyad>
+		<meslek>Desli</meslek>
+		<tel>05555556699</tel>
+		<mail>asd@gmail.com</mail>
+	</personel>
+	<personel id="6">
+		<adSoyad>Onur Yıldız</adSoyad>
+		<meslek>Oyuncu Mühendisi</meslek>
+		<tel>05555556699</tel>
+		<mail>onyore@gmail.com</mail>
+	</personel>
+	<personel id="7">
+		<adSoyad>Mehmet Bozkurt</adSoyad>
+		<meslek>İnşaat Mühendisi</meslek>
+		<tel>05555556699</tel>
+		<mail>asdd@gmail.com</mail>
+	</personel>
+	<personel id="8">
+		<adSoyad>Hasan Sert</adSoyad>
+		<meslek>asd Mühendisi</meslek>
+		<tel>05555556699</tel>
+		<mail>assafdc@gmail.com</mail>
+	</personel>
+	<personel id="9">
+		<adSoyad>Ahmet</adSoyad>
+		<meslek>Mimar</meslek>
+		<tel>05555556699</tel>
+		<mail>onuryldz008@gmail.com</mail>
+	</personel>
+<personel id="10">
+		<adSoyad>Yazıcı</adSoyad>
+		<meslek>Mimar</meslek>
+		<tel>05555556699</tel>
+		<mail>yzcmhmmd58@gmail.com</mail>
+	</personel>
+
+</Personeller>
